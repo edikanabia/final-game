@@ -1,0 +1,12 @@
+Game Development Final -- Conceptualization
+
+A narrative game that is somewhat nonlinear with multiple endings. It is a short experience that can be completed quickly.
+
+SCENARIO:
+A group of students are having a squabble between two clubs. The player has to mediate between the lot of students by talking to each student. Depending on the player's response, characters may or may not reveal more information about themselves and their take on the situation. The player can refer back to a journal that collects all of the key information gathered thus far. The journal also keeps track of items in the player’s inventory. The player can end the session at any time by delivering their "verdict". The characters will react to the player's decision depending on their conversations with the player. If the player has not sufficiently considered the opinions of all parties involved, the player will get a worse ending.
+
+MECHANICS:
+The player cannot talk to a character more than once. Some dialogue options may cut the conversation short and lock the player out of more information. Additionally, the "right" answer may not always be apparent. It is important to reference the journal and pay attention to each character’s mannerisms so that the best option can be selected.
+
+TONE:
+The tone for the game is meant to be humorous and a tad absurd, but friendly. The art direction and music is designed to reflect said tone. Many aspects of the game are exaggerated for comedic effect; for example, the player can refer to the journal to keep track of items in their inventory, but most of the items are useless. Some characters may also respond in unexpected ways to seemingly innocuous responses to questions. The game is to be designed in such a way to keep the player on their toes and thinking outside the box.
